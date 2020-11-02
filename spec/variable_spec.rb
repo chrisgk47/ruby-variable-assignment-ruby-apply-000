@@ -1,7 +1,7 @@
-def greeting
-  greeting = "Hello World"
+def greeting("Hello World")
+  puts greeting
 end
-
+greeting
 describe "./variable.rb" do
 
   it "defined a local variable called greeting and set it equal to 'Hello World'" do
