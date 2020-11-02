@@ -1,5 +1,5 @@
-def greeting = "Hello World"
-  puts "#{greeting}"
+def greeting =
+  puts "Hello World"
 end
 
 
