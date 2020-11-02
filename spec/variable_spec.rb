@@ -1,6 +1,4 @@
-def greeting
-  puts "Hello World"
-end
+greeting = "Hello World"
 
 describe "./variable.rb" do
 
