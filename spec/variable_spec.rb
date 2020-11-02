@@ -1,4 +1,5 @@
-def greeting(greeting = "Hello World")
+def greeting
+  greeting = "Hello World"
   puts "#{greeting}"
 end
 
