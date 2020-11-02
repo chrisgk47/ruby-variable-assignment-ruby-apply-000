@@ -1,8 +1,7 @@
-def greeting
-  greeting = "Hello World"
+def greeting("Hello World")
   puts "#{greeting}"
 end
-greeting
+
 
 describe "./variable.rb" do
 
