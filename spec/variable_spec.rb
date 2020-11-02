@@ -1,4 +1,7 @@
-# Code your solution in variable.rb
+def greeting
+  puts "Hello World"
+end
+
 describe "./variable.rb" do
 
   it "defined a local variable called greeting and set it equal to 'Hello World'" do
